@@ -3,7 +3,7 @@
 Pixel Art Parser is a Python3 script for analyzing a pixel art image and producing text output of the corresponding DMC embroidery floss color codes. Useful for when you want to make a cross-stitch of a pixel art, but don't want to pick out the colors yourself.
 
 ## Installation
-This script depends on Python libraries colormath and Pillow. Install them with pip
+This script depends on Python libraries `colormath` and `Pillow`. Install them with pip
 ```
 pip3 install colormath
 pip3 install Pillow
